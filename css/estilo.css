@@ -17,7 +17,7 @@ body {background-color: beige; }
 
 img {width: 300px; height: 200px;}
 
-.mainheader {display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; padding: 20px; border: 2px solid #000; gap: 15px; }
+.Header {display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; padding: 20px; border: 2px solid #000; }
 
 .footer {
     display: flex;
@@ -50,7 +50,7 @@ img {width: 300px; height: 200px;}
     text-align: center;
 }
 
-.footerinfo {
+.footerinformación {
     border: 2px solid #000;
     padding: 10px 20px;
     text-align: center;
